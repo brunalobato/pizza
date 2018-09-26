@@ -1,0 +1,42 @@
+.nav{
+    float: right;
+    background-color: dimgray;
+    
+}
+.nav-marca{
+    float:left;
+}
+
+#formcontato{
+    
+    width: 400px;
+    height: 400px;
+    background-color: antiquewhite;
+    
+}
+
+#bannerinicial{
+    background-image: url('img/47.jpg');
+    width: 300px;
+    height: auto;
+}
+
+.campo{
+    width:400px;
+    height:200px;
+    float:center;
+}
+
+.titulo{
+    font-size:800px;
+    width:500;
+    font-style: bold;
+    color:aliceblue;
+}
+
+
+.cardimg{
+    float:right;
+    width:360px;
+    height:350px;
+}
